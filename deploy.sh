@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Things to Modify
-LOGIN_USERNAME=ANY_USERNAME
-LOGIN_PASSWORD=ANY_PASSWORD
+LOGIN_USERNAME=FIREFOX
+LOGIN_PASSWORD=FOX
 
 # Set a timezone as per your preference (https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
 PREFERRED_TIMEZONE=Asia/Kolkata

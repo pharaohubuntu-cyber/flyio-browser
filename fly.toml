@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for flyio-browser on 2026-07-05T01:40:17Z
+# fly.toml app configuration file generated for firefoxweb on 2026-07-05T02:01:10Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = 'firefoxweb'
-primary_region = 'fra'
+primary_region = 'ams'
 kill_signal = 'SIGINT'
 kill_timeout = '5s'
 
